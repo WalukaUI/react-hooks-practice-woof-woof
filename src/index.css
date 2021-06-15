@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.dog{
+  border: 1px solid black;
+  width: 100px;
+  border-radius: 5%;
+  height: 50px;
+  text-align: center;
+}
 #filter-div {
   display: flex;
   justify-content: center;
@@ -18,6 +24,7 @@
 }
 
 #dog-bar {
+  border: 1px solid black;
   height: 15vh;
   background: skyblue;
   display: flex;
